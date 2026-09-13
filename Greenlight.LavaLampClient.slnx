@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/build/">
+    <Project Path="build/_build.csproj" />
+  </Folder>
+  <Project Path="Greenlight.LavaLampClient.UnitTests/Greenlight.LavaLampClient.UnitTests.csproj" />
+  <Project Path="Greenlight.LavaLampClient/Greenlight.LavaLampClient.csproj" />
+</Solution>
