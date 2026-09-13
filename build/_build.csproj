@@ -15,7 +15,6 @@
     <PackageReference Include="Fallout.Common" Version="10.4.0" />
     <PackageReference Include="MeddlingIdiot.Fallout.Components" Version="1.0.24" />
     <PackageReference Include="NuGet.Packaging" Version="7.9.0" />
-    <PackageReference Include="Automation.Fallout.Components" Version="1.0.14-beta.2" />
   </ItemGroup>
   <ItemGroup>
     <PackageDownload Include="GitVersion.Tool" Version="[6.8.2]" />
